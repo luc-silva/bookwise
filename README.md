@@ -18,8 +18,8 @@ BookWise é um gestor de livros completo, composto por três submódulos em Type
 
 ---
 ## TO-DO
-- [ ] Criar .sh para atualizar submódulos
-- [ ] Criar .sh para atualizar submódulos
+- [ ] Criar .sh e .bat para atualizar submódulos
+- [ ] Criar .sh e .bat para atualizar submódulos
 - [ ] Dockernizar repositórios
 ---
 
