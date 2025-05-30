@@ -2,9 +2,9 @@
 
 BookWise é um gestor de livros completo, composto por três submódulos em TypeScript:
 
-- [`BookWise-API`](BookWise-API/): API RESTful para gerenciamento dos dados dos livros.
-- [`BookWise-client`](BookWise-client/): Aplicação web para gerenciar sua estante de livros.
-- [`bookwise-native`](bookwise-native/): Aplicativo mobile (React Native + Expo) para acessar sua estante de qualquer lugar.
+- [`BookWise-API`](https://github.com/luc-silva/BookWise-API): API RESTful para gerenciamento dos dados dos livros.
+- [`BookWise-client`](https://github.com/luc-silva/BookWise-client): Aplicação web para gerenciar sua estante de livros.
+- [`bookwise-native`](https://github.com/luc-silva/bookwise-native): Aplicativo mobile (React Native + Expo) para acessar sua estante de qualquer lugar.
 
 ## Funcionalidades
 
@@ -14,7 +14,7 @@ BookWise é um gestor de livros completo, composto por três submódulos em Type
   - Total de livros lidos, não lidos e dropados.
   - Percentual de livros lidos.
 
-> **Importante:** As aplicações [`BookWise-client`](BookWise-client/) e [`bookwise-native`](bookwise-native/) só funcionam corretamente com a branch `old` da [`BookWise-API`](BookWise-API/). Isso é devido uma mudança planejada no projeto, onde vai passar a ser uma rede social de compartilhamentos de livros.
+> **Importante:** As aplicações [`BookWise-client`](https://github.com/luc-silva/BookWise-client) e [`bookwise-native`](https://github.com/luc-silva/bookwise-native) só funcionam corretamente com a branch `old` da [`BookWise-API`](https://github.com/luc-silva/BookWise-API). Isso é devido uma mudança planejada no projeto, onde vai passar a ser uma rede social de compartilhamentos de livros.
 
 ---
 ## TO-DO
