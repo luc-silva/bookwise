@@ -14,7 +14,7 @@ BookWise é um gestor de livros completo, composto por três submódulos em Type
   - Total de livros lidos, não lidos e dropados.
   - Percentual de livros lidos.
 
-> **Importante:** As aplicações [`BookWise-client`](BookWise-client/) e [`bookwise-native`](bookwise-native/) só funcionam corretamente com a branch `old` da [`BookWise-API`](BookWise-API/).
+> **Importante:** As aplicações [`BookWise-client`](BookWise-client/) e [`bookwise-native`](bookwise-native/) só funcionam corretamente com a branch `old` da [`BookWise-API`](BookWise-API/). Isso é devido uma mudança planejada no projeto, onde vai passar a ser uma rede social de compartilhamentos de livros.
 
 ---
 ## TO-DO
