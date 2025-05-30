@@ -1,0 +1,9 @@
+[submodule "BookWise-API"]
+	path = BookWise-API
+	url = https://github.com/luc-silva/BookWise-API.git
+[submodule "BookWise-client"]
+	path = BookWise-client
+	url = https://github.com/luc-silva/BookWise-client.git
+[submodule "bookwise-native"]
+	path = bookwise-native
+	url = https://github.com/luc-silva/bookwise-native.git
